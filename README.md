@@ -3,8 +3,8 @@
 </div>
 
 This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), modified with the aim of maximizing efficiency when programming and obtaining a minimalistic configuration that allows you to be productive.
+![image](https://github.com/JoseMRodriguezM/dotfiles/assets/76118394/6b231519-6721-4ce2-9760-87f242b922f6)
 
-![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3374d559-f48e-451b-bac6-db09ad491398)
 
 ![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3082ba00-c997-406d-9095-d50badd5575d)
 
