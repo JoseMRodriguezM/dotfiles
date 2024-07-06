@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/6819687e-a31a-487d-8bc7-dda05e91cbc4">
 </div>
 
 This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), modified with the aim of maximizing efficiency when programming and obtaining a minimalistic configuration that allows you to be productive.
@@ -33,7 +32,7 @@ This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nv
 - Clone the repositori
 
   ```sh
-  git clone https://github.com/JoseMRodriguezM/Neovim-configuration.git ~/.config/nvim
+  git clone https://github.com/JoseMRodriguezM/dotfiles.git ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
